@@ -9,8 +9,8 @@ SHND Logo | SHMN Logo | SHNDX Logo | iSHND Logo| StrongPay Logo
 
 ### WhitePapers
 
-* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/pdf-file.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shnd-whitepaper1.0.pdf) [Stronghands Whitepaper](http://google.com)
-* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/pdf-file.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shmn-whitepaper1.0.pdf) [Stronghands Masternode Whitepaper](http://google.com)
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/pdf-file.png?raw=true">](https://github.com/stronghands-oficial/assets/blob/main/shnd-whitepaper1.0.pdf) [Stronghands Whitepaper](https://github.com/stronghands-oficial/assets/blob/main/shnd-whitepaper1.0.pdf)
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/pdf-file.png?raw=true">](https://github.com/stronghands-oficial/assets/blob/main/shmn-whitepaper1.0.pdf) [Stronghands Masternode Whitepaper](https://github.com/stronghands-oficial/assets/blob/main/shmn-whitepaper1.0.pdf)
 
 ### Wallet Files
 
