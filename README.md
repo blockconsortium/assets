@@ -5,3 +5,13 @@
 SHND Logo | SHMN Logo | SHNDX Logo | iSHND Logo| StrongPay Logo
 ------------ | ------------- | ------------- | -------------| -------------
 ![test image size](https://raw.githubusercontent.com/stronghands-oficial/assets/main/shnd-logo.svg) | ![test image size](https://raw.githubusercontent.com/stronghands-oficial/assets/main/shmn-logo.svg)| ![test image size](https://raw.githubusercontent.com/stronghands-oficial/assets/main/shndx-logo.svg) | ![test image size](https://raw.githubusercontent.com/stronghands-oficial/assets/main/ishnd-logo.svg)|![test image size](https://raw.githubusercontent.com/stronghands-oficial/assets/main/strongpay-logo.svg)
+
+
+### WhitePapers
+
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/pdf-file.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shnd-whitepaper1.0.pdf) [Stronghands Whitepaper](http://google.com)
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/pdf-file.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shmn-whitepaper1.0.pdf) [Stronghands Masternode Whitepaper](http://google.com)
+
+### Wallet Files
+
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](http://google.com.au/) [peers.dat](https://github.com/stronghands-oficial/assets/raw/main/peers.dat) (check it out the docs for instructions)
