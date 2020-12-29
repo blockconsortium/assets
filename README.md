@@ -14,4 +14,6 @@ SHND Logo | SHMN Logo | SHNDX Logo | iSHND Logo| StrongPay Logo
 
 ### Wallet Files
 
-* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](http://google.com.au/) [peers.dat](https://github.com/stronghands-oficial/assets/raw/main/peers.dat) (check it out the docs for instructions)
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shnd-peers.dat) [SHND peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shnd-peers.dat) (check it out the docs for instructions)
+
+* [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat) [SHMN peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat) (check it out the docs for instructions)
