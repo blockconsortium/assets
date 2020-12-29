@@ -1,4 +1,4 @@
-# StrongHands Assets
+# StrongHands Foundation - Assets
 
 ### Oficial Logos
 
