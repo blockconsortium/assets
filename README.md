@@ -17,7 +17,7 @@ SHND Logo | SHMN Logo | SHNDX Logo | iSHND Logo| StrongPay Logo
  | <img src="https://res.cloudinary.com/broadtel/image/upload/c_scale,w_16/v1609271912/stronghands.info/shnd-logo.png"> SHND Wallet
  | ------------- 
 [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shnd-peers.dat)  [shnd-bootstrap-0.7.3.0](https://github.com/stronghands-oficial/assets/releases/tag/shnd-bootstrap-0.7.3.0) (SHND Blockchain)
-[<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat) [SHND peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat) (check it out the docs for instructions)
+[<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shnd-peers.dat) [SHND peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shnd-peers.dat) (check it out the docs for instructions)
 
  | <img src="https://res.cloudinary.com/broadtel/image/upload/c_scale,w_16/v1609271911/stronghands.info/shmn-logo.png"> SHMN Wallet
  | ------------- 
