@@ -23,3 +23,7 @@ SHND Logo | SHMN Logo | SHNDX Logo | iSHND Logo| StrongPay Logo
  | ------------- 
 [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](#)  [shmn-bootstrap-0.3.1.1](https://github.com/stronghands-official/assets/releases/download/shnd-bootstrap-0.7.3.0/SHMN-Bootstrap-ver0.3.1.1.zip) (SHMN Blockchain)
 [<img src="https://github.com/alexorbit/stronghands-website/blob/main/images/dat.png?raw=true">](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat) [SHMN peers.dat](https://github.com/stronghands-oficial/assets/raw/main/shmn-peers.dat) (check it out the docs for instructions)
+
+- For the SHMN v2.4.0.0-23db733 and SHND v0.7.3.01-g wallets.
+- The default folder locations are "%APPDATA%/shmn" or "%APPDATA%/shnd"
+- After downloading, delete your old peers.dat file. Rename the shmn-peers.dat or shnd-peers.dat file to peers.dat
