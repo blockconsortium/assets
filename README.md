@@ -1,6 +1,6 @@
 # StrongHands Foundation - Assets
 
-### Oficial Logos
+### Official Logos
 
 SHND Logo | SHMN Logo | SHNDX Logo | iSHND Logo| StrongPay Logo
 ------------ | ------------- | ------------- | ------------- | -------------
