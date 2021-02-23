@@ -1,2 +1,8 @@
-.logo {display:none!important;}
-.navbar-brand {background:url(https://raw.githubusercontent.com/stronghands-official/assets/c30b030fdba8317cc1f587a51b717676be5095f5/strongpay-home-logo.svg)!important;
+.navbar-brand {width:194px; height: 50px; background-image: url(https://raw.githubusercontent.com/stronghands-official/assets/main/strongpay-home-logo-thumb.svg);}
+
+.logo {display: none;}
+
+a.nav-link.active {
+  background-color: #D8D8D8;
+  border-left-color:#ff6600;
+}
