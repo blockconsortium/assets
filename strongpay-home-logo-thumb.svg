@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192.001" height="48.565" viewBox="0 0 192.001 48.565">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" d="M16.6,0A16.6,16.6,0,1,1,0,16.6,16.6,16.6,0,0,1,16.6,0Z" fill="#fc0"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_8" data-name="Retângulo 8" width="25.895" height="15.627" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_47" data-name="Grupo 47" transform="translate(1929 5462)">
+    <g id="Componente_9_1" data-name="Componente 9 – 1" transform="translate(-1929 -5462)">
+      <path id="Caminho_70" data-name="Caminho 70" d="M22.6-178.073a4.085,4.085,0,0,1-1.565,3.4,6.813,6.813,0,0,1-4.319,1.232,10.3,10.3,0,0,1-4.507-.855v-2.509a12.251,12.251,0,0,0,2.359.822,10,10,0,0,0,2.326.3,3.7,3.7,0,0,0,2.326-.6,1.955,1.955,0,0,0,.749-1.61,2.017,2.017,0,0,0-.688-1.543,10.362,10.362,0,0,0-2.842-1.5,7.519,7.519,0,0,1-3.131-2.054,4.346,4.346,0,0,1-.91-2.775,3.887,3.887,0,0,1,1.443-3.2,5.987,5.987,0,0,1,3.875-1.166,11.384,11.384,0,0,1,4.641,1.021l-.844,2.165a10.139,10.139,0,0,0-3.863-.91,2.965,2.965,0,0,0-1.954.561,1.841,1.841,0,0,0-.666,1.482,2.087,2.087,0,0,0,.266,1.082,2.721,2.721,0,0,0,.877.849,14.835,14.835,0,0,0,2.2,1.055,12.027,12.027,0,0,1,2.62,1.388,4.082,4.082,0,0,1,1.221,1.454A4.375,4.375,0,0,1,22.6-178.073Zm7.384,4.407H27.329v-13.955H22.555V-189.9h12.2v2.276H29.982Zm8.55-8.682h1.843a4.208,4.208,0,0,0,2.687-.688,2.5,2.5,0,0,0,.833-2.043,2.2,2.2,0,0,0-.9-1.976,4.931,4.931,0,0,0-2.709-.6H38.532Zm0,2.2v6.483H35.879V-189.9h4.585a7.534,7.534,0,0,1,4.652,1.177,4.225,4.225,0,0,1,1.51,3.553,4.441,4.441,0,0,1-3.153,4.319l4.585,7.183h-3.02l-3.886-6.483ZM63.457-181.8a8.878,8.878,0,0,1-1.982,6.162,7.167,7.167,0,0,1-5.612,2.2,7.217,7.217,0,0,1-5.645-2.182,8.934,8.934,0,0,1-1.971-6.2A8.8,8.8,0,0,1,50.229-188a7.3,7.3,0,0,1,5.656-2.154,7.154,7.154,0,0,1,5.6,2.187A8.869,8.869,0,0,1,63.457-181.8Zm-12.39,0a7.278,7.278,0,0,0,1.21,4.546,4.272,4.272,0,0,0,3.586,1.549,4.264,4.264,0,0,0,3.569-1.532,7.291,7.291,0,0,0,1.2-4.563,7.307,7.307,0,0,0-1.193-4.53,4.219,4.219,0,0,0-3.558-1.543,4.308,4.308,0,0,0-3.6,1.543A7.208,7.208,0,0,0,51.068-181.8ZM79.1-173.666H75.848L67.866-186.6h-.089l.056.722q.155,2.065.155,3.775v8.437H65.579V-189.9H68.8l7.96,12.867h.067q-.022-.255-.089-1.86t-.067-2.5v-8.5H79.1Zm9.56-8.8h5.973v8.149a17.286,17.286,0,0,1-2.814.677,19.923,19.923,0,0,1-2.914.2,7.32,7.32,0,0,1-5.684-2.182,8.785,8.785,0,0,1-2-6.156,8.208,8.208,0,0,1,2.254-6.134,8.471,8.471,0,0,1,6.206-2.215,12.086,12.086,0,0,1,4.818.977l-.933,2.209a9.376,9.376,0,0,0-3.952-.91,5.322,5.322,0,0,0-4.108,1.632A6.316,6.316,0,0,0,84-181.759a6.663,6.663,0,0,0,1.36,4.524,4.93,4.93,0,0,0,3.913,1.549,12.862,12.862,0,0,0,2.753-.322v-4.185H88.661Zm12.546-8.571V-168.3h-1V-191.04Zm7.708,8.915h3.5a5.946,5.946,0,0,0,3.475-.783,2.951,2.951,0,0,0,1.055-2.537,3,3,0,0,0-.944-2.448,4.561,4.561,0,0,0-2.942-.783h-4.141Zm-1.5,8.46v-16.353h5.706a6.028,6.028,0,0,1,4.019,1.155,4.289,4.289,0,0,1,1.343,3.442,4.141,4.141,0,0,1-1.5,3.514,7.533,7.533,0,0,1-4.591,1.149h-3.475v7.094Zm17.5-6.339h6.347l-3.18-8.409Zm-3.926,6.339,6.206-16.353H129l6.206,16.353h-1.579l-1.849-5.029h-7.33l-1.885,5.029Zm21.513,0v-7.183l-5.773-9.17h1.719l4.8,7.745,4.81-7.745h1.719L144-180.849v7.183Z" transform="translate(42.225 203.98)"/>
+      <g id="Componente_8_1" data-name="Componente 8 – 1">
+        <g id="Grupo_31" data-name="Grupo 31" transform="translate(0 0)">
+          <g id="Grupo_28" data-name="Grupo 28" transform="translate(0)">
+            <g id="shnd-logo-2" transform="matrix(0.883, -0.469, 0.469, 0.883, 4.777, 16.87)">
+              <path id="Path_1-2" data-name="Path 1" d="M16.607,0A16.607,16.607,0,1,1,0,16.607,16.607,16.607,0,0,1,16.607,0Z" transform="translate(0 0)" fill="#fc0"/>
+            </g>
+            <g id="Grupo_26" data-name="Grupo 26" transform="matrix(0.883, -0.469, 0.469, 0.883, 2.264, 15.829)">
+              <g id="Grupo_20" data-name="Grupo 20">
+                <g id="Grupo_19" data-name="Grupo 19">
+                  <g id="Grupo_de_máscara_7" data-name="Grupo de máscara 7" clip-path="url(#clip-path)">
+                    <path id="Path_1-3" data-name="Path 1" d="M16.6,0A16.6,16.6,0,1,1,0,16.6,16.6,16.6,0,0,1,16.6,0Z" fill="#f60"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_27" data-name="Grupo 27" transform="translate(0 24.701) rotate(-45)">
+              <g id="shnd-logo-2-2" data-name="shnd-logo-2" transform="translate(0 0.536)">
+                <path id="Path_1-4" data-name="Path 1" d="M16.607,0A16.607,16.607,0,1,1,0,16.607,16.607,16.607,0,0,1,16.607,0Z" transform="translate(0 0)" fill="#ffa200"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_46" data-name="Grupo 46" transform="translate(10.249 7.1)">
+          <g id="Grupo_44" data-name="Grupo 44" transform="translate(0 12.954) rotate(-45)">
+            <rect id="Retângulo_20" data-name="Retângulo 20" width="0.929" height="5.751" rx="0.465" transform="translate(8.77 0.198)"/>
+            <rect id="Retângulo_25" data-name="Retângulo 25" width="0.929" height="5.973" rx="0.465" transform="translate(5.981 4.766) rotate(90)"/>
+            <rect id="Retângulo_26" data-name="Retângulo 26" width="0.939" height="5.124" rx="0.469" transform="translate(0.939 9.962) rotate(180)"/>
+            <rect id="Retângulo_23" data-name="Retângulo 23" width="0.929" height="5.574" rx="0.465" transform="translate(8.812 9.093)"/>
+            <rect id="Retângulo_24" data-name="Retângulo 24" width="0.929" height="9.733" rx="0.465" transform="translate(9.741 9.093) rotate(90)"/>
+            <rect id="Retângulo_21" data-name="Retângulo 21" width="0.939" height="11.73" rx="0.469" transform="translate(17.73 6.849) rotate(51)"/>
+            <rect id="Retângulo_22" data-name="Retângulo 22" width="0.939" height="11.73" rx="0.469" transform="matrix(-0.629, 0.777, -0.777, -0.629, 18.32, 7.382)"/>
+          </g>
+          <g id="Grupo_45" data-name="Grupo 45" transform="translate(29.284 21.38) rotate(135)">
+            <rect id="Retângulo_20-2" data-name="Retângulo 20" width="0.939" height="5.712" rx="0.469" transform="translate(8.791 0.264)"/>
+            <rect id="Retângulo_25-2" data-name="Retângulo 25" width="0.939" height="5.957" rx="0.469" transform="translate(5.966 9.231) rotate(90)"/>
+            <rect id="Retângulo_26-2" data-name="Retângulo 26" width="0.939" height="5.124" rx="0.469" transform="translate(0.943 10.165) rotate(180)"/>
+            <rect id="Retângulo_23-2" data-name="Retângulo 23" width="0.939" height="5.536" rx="0.469" transform="translate(8.791 9.196)"/>
+            <rect id="Retângulo_24-2" data-name="Retângulo 24" width="0.939" height="9.73" rx="0.469" transform="translate(9.73 5.037) rotate(90)"/>
+            <rect id="Retângulo_21-2" data-name="Retângulo 21" width="0.939" height="11.73" rx="0.469" transform="translate(17.734 6.849) rotate(51)"/>
+            <rect id="Retângulo_22-2" data-name="Retângulo 22" width="0.939" height="11.73" rx="0.469" transform="matrix(-0.629, 0.777, -0.777, -0.629, 18.325, 7.382)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
